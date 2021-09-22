@@ -1,15 +1,10 @@
 ### Hello there 👋
 - How to reach me: 
   * Email - **wasimchy100@gmail.com**
-  * Discord - **OviRei#5592**
-
-- I’m currently working on a browser game called `OldTV-Remake` at https://github.com/OviRei/OldTV-Remake
-<br />  To play the game: https://ovirei.github.io/OldTV-Remake/
+  * Discord - **OviRei#9025**
 
 - I’m currently learning:
-  * React.js
-  * Electron.js 
-  * TypeScript
+  * c#
   * Unity
   * VR Game development
 
